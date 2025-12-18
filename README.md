@@ -1,0 +1,1 @@
+# osint-scam-check
